@@ -12,3 +12,9 @@ Docker Captain🐳🇹🇷👩‍✈️ | Microsoft DevOps MVP | 15xMicrosoft Ce
 [LinkedIn](https://www.linkedin.com/in/cigdem-kadakoglu/)
 
 [X](https://x.com/cigdemkadakoglu)
+
+[Bluesky](https://bsky.app/profile/cigdemkadakoglu.bsky.social)
+
+[Docker Captain](https://www.docker.com/contributors/cigdem-kadakoglu/)
+
+[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/56d4f2e6-f556-479f-ba80-d9842b2c3f40)
