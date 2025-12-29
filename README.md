@@ -6,7 +6,7 @@
 🎤  Speaker | 🎓 Instructor
 
 ### 🔧 What I do
-- Cloud & DevOps architecture (Azure-focused)
+- Cloud & DevOps architecture (Azure-first, production-scale)
 - Kubernetes, Docker, CI/CD, Platform Engineering
 - AI-powered DevOps & Agentic workflows
 - Consulting, training & mentoring
