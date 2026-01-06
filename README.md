@@ -24,11 +24,13 @@
 - [Café Azure #61: DevOps: Not just a Methodology, but a Culture](https://www.youtube.com/watch?v=dGHy94k6Y2I)
 - [Microsoft MVPler Anlatıyor: DevOps ve .NET Alanında MVP Olma Süreci](https://www.youtube.com/watch?v=5luoCs6BWX8)
 - [Debunking the Myth: DevOps Culture is Hard to Build](https://kommunity.com/cloud-turkiye/events/cloud-night-november-istanbul-c2167246)
+- [Docker and Azure Container Instances](https://wearecommunity.io/events/docker-and-azure-container-instances/talks/66074)
 - [Greeting to KubeSphere and Open-Source Meetup from Çiğdem Kadakoğlu in Turkey](https://www.youtube.com/watch?v=FDtTvs-VkzU)
 
 ### 🎓 Certifications
 - 🏅 Microsoft (17x): AZ{104|204|305|400|700|800|801|900}-DP900-AI{900|102}-PL900-MS900
 - ☸️ Kubernetes: CKA, CKAD
+- GitHub Copilot : GH300
 
 ### 📚 Teaching & Content
 - Udemy Instructor
