@@ -44,7 +44,7 @@
 ### 🌐 Links
 - 🌍 [GitHub](https://github.com/cigdemkadakoglu)
 - ✍️ [Medium](https://cigdemkadakoglu.medium.com)
-- 🎥 [Youtube](https://www.youtube.com/cidokimi)
+- 🎥 [Youtube](https://www.youtube.com/@cigdemkadakoglu)
 - 🎓 [Udemy](https://www.udemy.com/user/cigdem-kadakoglu/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cigdem-kadakoglu/)
 - 🐦 [X](https://x.com/cigdemkadakoglu)
