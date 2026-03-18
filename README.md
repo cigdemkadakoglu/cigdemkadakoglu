@@ -12,6 +12,7 @@
 - Consulting, training & mentoring
 
 ### 🎤 Talks & Community
+- [Global Ölçekte Bir Kariyer Nasıl İnşa Edilir?-Öğrenmeyi Stratejiye Dönüştüren Bir Kariyer Yolculuğu](https://www.youtube.com/watch?v=esDFsSL1gRU)
 - [Your First AI Agent in Minutes](https://kommunity.com/ozgur-yazilim-toplulugu/events/your-first-ai-agent-in-minutes-docker-cagent-cigdem-kadakoglu-a21c034f)
 - [Running AI Models with Docker MCP & Model Runner](https://gdg.community.dev/gdg-konya/)
 - [Docker & AI: Building the Next-Gen Cloud-Native Stack](https://gdg.community.dev/gdg-ankara/)
