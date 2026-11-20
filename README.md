@@ -3,7 +3,7 @@
 🇹🇷[Docker Captain](https://www.docker.com/contributors/cigdem-kadakoglu/) | [Microsoft MVP (DevOps)](https://mvp.microsoft.com/en-US/MVP/profile/56d4f2e6-f556-479f-ba80-d9842b2c3f40) 
 
 ☁️ Cloud & DevOps Engineer | Azure Solutions Architect  
-🎤  Speaker | 🎓 Instructor
+🎤  Speaker | 🎓 Instructor | Lead Engineer@ASELSAN
 
 ### 🔧 What I do
 - Cloud & DevOps architecture (Azure-first, production-scale)
